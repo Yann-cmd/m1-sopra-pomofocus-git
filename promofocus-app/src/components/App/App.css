@@ -1,0 +1,18 @@
+.app-content {
+  margin-top: 10%;
+  width: 100%;
+  text-align: center;
+}
+
+.timer-button-section {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
+.timer-section {
+  margin-top: 15%;
+  border: 2px solid black;
+  border-radius: 15px;
+  padding: 5%;
+}
